@@ -73,6 +73,34 @@ The love letter inside was written for a rivals-to-lovers scenario set during th
 - All written content is original fiction
 - Character Simon Riley / Ghost belongs to Activision · Call of Duty franchise
 
+Só adicione esse bloco logo depois da seção de **Credits & notes**:
+
+---
+
+## Using this project
+
+Feel free to use this code as a base or inspiration for your own interactive diary, character artifact, or creative project — just make sure to give proper credit.
+
+If you use, adapt, or build upon this project, please include a visible credit somewhere in your work:
+
+```
+Original project: Diary — Simon Riley
+Created by: Sky12pm
+Built with: Claude (Anthropic)
+Source: github.com/Sky12pm/Diary-Simon-Riley
+```
+
+You're free to:
+- ✓ Use the code as a learning reference
+- ✓ Adapt the layout and structure for your own character/project
+- ✓ Share it, as long as you link back to this repository
+
+Please don't:
+- ⚠️ Republish it as entirely your own work without credit
+- ⚠️ Use the original written content (letters, diary entries, character notes) without permission — those are original fiction and belong to their creator
+- ⚠️ Remove the credit section from the code itself
+
+> *This project was made with a lot of care and detail. If it inspired something in you, that's exactly what it was meant to do — just carry the name forward.*
 ---
 *He said to burn it.*
 *You didn't.*
