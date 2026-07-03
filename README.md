@@ -73,8 +73,6 @@ The love letter inside was written for a rivals-to-lovers scenario set during th
 - All written content is original fiction
 - Character Simon Riley / Ghost belongs to Activision · Call of Duty franchise
 
-Só adicione esse bloco logo depois da seção de **Credits & notes**:
-
 ---
 
 ## Using this project
