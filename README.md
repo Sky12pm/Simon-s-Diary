@@ -85,7 +85,7 @@ If you use, adapt, or build upon this project, please include a visible credit s
 Original project: Diary — Simon Riley
 Created by: Sky12pm
 Built with: Claude (Anthropic)
-Source: github.com/Sky12pm/Diary-Simon-Riley
+Source: https://github.com/Sky12pm/Simon-s-Diary.git or github.com/Sky12pm/Diary-Simon-Riley
 ```
 
 You're free to:
