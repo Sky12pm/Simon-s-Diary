@@ -107,7 +107,7 @@ Download the `.html` file and open it in any browser. That's it.
 
 **Option 2 — Hosted:**
 The live version is available at:
-👉 `[your GitHub Pages link here]`
+👉 `[https://github.com/Sky12pm/Simon-s-Diary or ]`
 
 ---
 
